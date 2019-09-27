@@ -12,6 +12,6 @@ Latest release available from the [Steam Workshop](http://steamcommunity.com/sha
 
 # License
 
-This map source file is simply licensed under GPLv3. This means you are basically free to release modified versions under this license.
+This map source file is simply licensed under GPLv3. This means you are basically free to release modified versions under this license, provided that you also publish the modified source as well.
 
-However, I would greatly appreciate it if you would link to this repository to any modified versions you make.
+I would greatly appreciate it if you would link to this version's Steam Workshop page in any modified versions you make.
